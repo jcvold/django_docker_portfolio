@@ -2,5 +2,6 @@ version: "3.8"
 services:
   web:
     build: .
+    image: 559717033685.dkr.ecr.us-east-2.amazonaws.com/django_docker_portfolio:django_docker_portfolio
     ports:
       - 8000:8000
