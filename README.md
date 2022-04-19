@@ -4,12 +4,6 @@ This is ready to use with swagger API built-in
 
 The docker-entrypoint will migrate database, create superuser, and start development server
 
-SUPERUSER Creds - 
-
-admin
-
-password
-
 URLS of project:
 
 (CHANGE IP ADDRESS IF CONTAINER IS NOT LOCAL!)
